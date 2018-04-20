@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
 import CheeseList from './components/cheese-list';
 import {Provider} from 'react-redux';
 import store from './store';
